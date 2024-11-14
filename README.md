@@ -1,16 +1,21 @@
-## Hi there 👋
+## print("AIN PAPAI BOLSONARO")
 
-<!--
-**VXZZ69/VXZZ69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## salve aqui é a C4
 
-Here are some ideas to get you started:
+sou desenhista,editora iniciante e 
+as vezes escrevo poemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ comecei a me interessar pela programação através de jogos, principalmente pelo roblox
+ atualmente um projeto que eu fiz é um pequeno jogo no roblox, no qual infelizment enão está aberto
+
+## 🚀 Minhas Skills
+Atualmente estou aprendendo minha primeira língua, o python
+comecei a muito pouco tempo mais espero que cada vez consiga melhorar minhas habilidades
+
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+---
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VXZZ69&show_icons=true)
+
