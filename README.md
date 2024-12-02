@@ -1,8 +1,8 @@
 ## print("AIN PAPAI BOLSONARO")
 
-## salve aqui é a C4
+## salve aqui é o C4
 
-sou desenhista,editora iniciante e 
+sou desenhista,editor iniciante e 
 as vezes escrevo poemas
 
  comecei a me interessar pela programação através de jogos, principalmente pelo roblox
